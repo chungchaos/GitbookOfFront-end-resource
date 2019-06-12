@@ -1,0 +1,57 @@
+{
+    "title": "chungchao 的前端知识库",
+    "author" : "chungchao",
+    "description": "chungchao 的前端知识库,含node等后台内容",
+    "languages":"zh-hans",
+    "styles": {
+        "website": "./ASSETS/CSS/website.css",
+        "ebook": "styles/ebook.css",
+        "pdf": "styles/pdf.css",
+        "mobi": "styles/mobi.css",
+        "epub": "styles/epub.css"
+    },
+    "plugins":[
+        "theme-comscore",
+        "copy-code-button",
+        "search-pro","-search","-lunr",
+        "expandable-chapters",
+        "splitter",
+        "-sharing",
+        "donate",
+        "tbfed-pagefooter",
+        "baidu-tongji",
+        "anchor-navigation-ex",
+        "alerts",
+        "flexible-alerts"
+    ],
+    "pluginsConfig":{
+        "donate": {
+            "button": "支持作者",
+            "alipayText": "支付宝打赏",
+            "wechatText": "微信打赏",
+            "alipay": "",
+            "wechat": ""
+          } ,
+        "tbfed-pagefooter": {
+        "copyright":"Copyright &copy chungchao 2019",
+        "modify_label": "最近修改: ",
+        "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "baidu-tongji": {
+            "token": ""
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        },
+        "flexible-alerts": {
+            "style": "callout",
+            "comment": {
+              "label": "Comment",
+              "icon": "fa fa-comments",
+              "className": "info"
+            }
+        }      
+    }
+
+
+}
