@@ -22,10 +22,10 @@
 
 ## 4.修改
 
-- 修改元素默认属性:src,href,title 等
-- 修改元素内容:innerHTML,innerText
-- 修改表单元素:value,type,disabled 等
-- 修改元素样式:style,className
+- 修改元素默认属性:src,href,title 等;
+- 修改元素内容:innerHTML,innerText;
+- 修改表单元素:value,type,disabled 等;
+- 修改元素样式:style,className;
 
 ## 5.获取
 

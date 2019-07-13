@@ -26,7 +26,7 @@
         }
     })(jQuery)
 
-    增加参数配置:
+    // 增加参数配置:
     (function($){
         $.fn.pluginName = function(options){
             // 默认参数
