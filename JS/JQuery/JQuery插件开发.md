@@ -1,4 +1,4 @@
-# jQuery 插件深入
+# jQuery 插件开发
 
 ## 对 JQuery 本身拓展的插件 ----`$.MethodsName()`方式调用的插件--工具插件开发
 
